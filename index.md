@@ -32,6 +32,8 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css"
       media="screen"
     />
+        <meta property="og:title" content="Invitacion Cumpleaños Geraldine" />
+    <meta property="og:image" content="https://github.com/gcascallares/InviteGeraldine/blob/main/images/mini.PNG" />
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script
@@ -60,7 +62,7 @@
                     <strong class="multi">Geraldine</strong> te invita a
                     festejar su Cumpleaños!!</span
                   >
-                  <h1>El día 20 de Mayo</h1>
+                  <h1>El día 20 de Mayo de 19:00 a 22:00hs</h1>
                   <audio
                     src="images/BloodyMary.mp3"
                     controls
